@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: '𝐑𝐈𝐅𝐀𝐓',
+      name: 'Sajid',
       gender: 'MALE',
-      age: '16+',
-      height: 'Jaina lav nai muri khaw🦆',
-      choise: 'muri khaw',
-      youtube : ' এইসব আমার ধারা সম্বব না🙂 '
+      age: '17+',
+      height: '5"10+ Ft',
+      facebook: 'facebook.com/facebook.paradox,
+      instagram : 'Instagram.com/singlexsajid'
     };
 
     const bold = 'https://i.imgur.com/f1f3RCU.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
